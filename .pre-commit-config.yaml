@@ -1,0 +1,4 @@
+repos:
+-   repo: https://github.com/vaibhavdd/pre-commit-trials
+    hooks:
+    -   id: check_byte_order_marker
